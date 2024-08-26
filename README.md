@@ -5,7 +5,7 @@ This repository contains my solutions for the first experiment in ECE 2112: Adva
 ## Problem 1: ALPHABET SOUP
 Create a function that takes a string and returns a string with its letters in alphabetical order.
 
-## Problem 2: EMOTICON PROBLEM
+## Problem 2: EMOTICON
 Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad and mad with their corresponding emoticon:
 | word | emoticon |
 | --- | --- |
