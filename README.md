@@ -1,6 +1,5 @@
 # EXPERIMENT 1 - Introduction to Python Programming
-Purpose:
-This repository contains my solutions for the first experiment in ECE 2112: Advanced Computer Programming and Algorithms. I've used Jupyter Notebook to implement and test my Python code.
+This repository contains my solutions for the first experiment in ECE 2112: Advanced Computer Programming and Algorithms. I've used Jupyter Notebook to implement and test my Python code. The code will prompt user for the input values.
 
 ## Problem 1: ALPHABET SOUP
 Create a function that takes a string and returns a string with its letters in alphabetical order.
@@ -17,21 +16,21 @@ Create a function that changes specific words into emoticons. Given a sentence a
 ## Problem 3: UNPACKING LIST
 Unpack the list writeyourcodehere into three variables, being first, middle, and last, with middle being everything in between the first and last element. Then print all three variables.
 
-## Sample Output
+## Sample Input and Output
 Problem 1
 ```
-Enter a word:  hellohacker
+Enter a word: hellohacker
 aceehhkllor
 ```
 
 Problem 2
 ```
-Enter a sentence:  make me sad
+Enter a sentence: make me sad
 make me :((
 ```
 
 Problem 3
 ```
-lst =  1 2 3
+lst = 1 2 3
 First: 1 Middle: ['2'] Last: 3
 ```
